@@ -1,2 +1,1 @@
-# Basic
-New files 
+https://magendiran007.github.io/Basic/
